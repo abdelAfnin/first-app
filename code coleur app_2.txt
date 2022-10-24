@@ -1,0 +1,18 @@
+code color :
+frame principale = #496997
+frame1=#6b75c3
+frame_msg = c
+frame button = #0012aa
+ button de 0 à 9 = #596cff
+ 
+catégorie B, ea121221 et arabe =#0045b4
+cin, langue type permis = #478bc4
+
+
+
+############""
+bg telecommande = #061da7
+button tele = #011e7a
+
+
+
